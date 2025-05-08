@@ -1,7 +1,7 @@
 # Free3R-GS
 
 Introduction:
-This is the implementation code for Free3R-GS, which includes dynamic reconstruction of surgical scenes for the EndoNeRF and stereoMIS datasets. Some rendering videos are as follows.
+This is the implementation code for Free3R-GS, which includes dynamic reconstruction of surgical scenes for the EndoNeRF and stereMIS datasets. Some rendering videos are as follows.
 
 https://github.com/user-attachments/assets/52672bcd-9b9e-4e45-a326-54953b07d7a7
 
